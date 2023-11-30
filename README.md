@@ -51,3 +51,8 @@ git commit -m "Adicionando pre-commit"
 6. Veja o resultado
 
 ```bash
+black....................................................................Passed
+Check Yaml...............................................................Passed
+Trim Trailing Whitespace..................................................Passed
+Fix End of Files.........................................................Passed
+```
